@@ -1,0 +1,12 @@
+{
+  "name": "Predawn",
+  "displayName": "Predawn",
+  "theme": "ui",
+  "version": "0.1.0",
+  "description": "The Mailspring Predawn UI Theme",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  },
+  "private": true
+}
