@@ -9,7 +9,7 @@ A minty dark theme for the [Mailspring](https://getmailspring.com/) email client
 # Installing
 
 1. Download the [Mailspring](https://getmailspring.com/) email client.
-2. Download or clone the latest version of the Predawn theme from <https://github.com/michaelhthomas/mailspring-minty>.
+2. Download or clone the latest version of the Minty theme from <https://github.com/michaelhthomas/mailspring-minty>.
 3. Open `Mailspring > Edit > Install Theme...` and select the folder you just downloaded.
 4. Enjoy a polished dark theme that's easy on your eyes!
 
