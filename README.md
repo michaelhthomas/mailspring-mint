@@ -3,8 +3,7 @@
 A minty dark theme for the [Mailspring](https://getmailspring.com/) email client, based on the excellent [Predawn](https://github.com/asparc/predawn) theme.
 
 <p align="center">
-<img alt="Screenshot Plain" src="fig/minty-screen-plain.png" width="70%">
-<img alt="Screenshot HTML" src="fig/minty-screen-html.png" width="70%">
+<img alt="Screenshot HTML" src="fig/minty-preview.png" width="70%">
 </p>
 
 # Installing
